@@ -1,0 +1,55 @@
+{
+    "product": [
+        {
+            "id": 1,
+            "name": "New Iphone",
+            "desc": "Apple company",
+            "price": 9999,
+            "color": "#F70FAB",
+            "image": "https://cdn.pixabay.com/photo/2018/01/08/02/34/technology-3068617_960_720.jpg"
+        
+
+        },
+    
+
+{
+    "id": 2,
+    "name": "Iphone pro max",
+    "desc": "Apple company",
+    "price": 9999,
+    "color": "#F70FAB",
+    "image": "https://cdn.pixabay.com/photo/2018/01/08/02/34/technology-3068617_960_720.jpg"
+
+},
+{
+    "id": 3,
+    "name": "Iphone 12",
+    "desc": "Apple company",
+    "price": 9999,
+    "color": "#F70FAB",
+    "image": "https://cdn.pixabay.com/photo/2018/01/08/02/34/technology-3068617_960_720.jpg"
+
+},
+{
+    "id": 4,
+    "name": "Iphone 14",
+    "desc": "Apple company",
+    "price": 9999,
+    "color": "#F70FAB",
+    "image": "https://cdn.pixabay.com/photo/2018/01/08/02/34/technology-3068617_960_720.jpg"
+
+},
+
+{
+    "id": 5,
+    "name": "New Iphone 9",
+    "desc": "Apple company",
+    "price": 9999,
+    "color": "#F70FAB",
+    "image": "https://cdn.pixabay.com/photo/2018/01/08/02/34/technology-3068617_960_720.jpg"
+
+}
+
+ ]
+
+}
